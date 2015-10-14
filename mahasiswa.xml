@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<data>
+  <mahasiswa>
+    <nim>125</nim>
+    <nama>sabila</nama>
+    <alamat>sleman</alamat>
+    <prodi>komsi</prodi>
+  </mahasiswa>
+  <mahasiswa>
+    <nim>295</nim>
+    <nama>aedi</nama>
+    <alamat>tegal</alamat>
+    <prodi>rekmed</prodi>
+  </mahasiswa>
+  <mahasiswa>
+    <nim>542</nim>
+    <nama>septi</nama>
+    <alamat>jogja</alamat>
+    <prodi>elins</prodi>
+  </mahasiswa>
+  <mahasiswa>
+    <nim>754</nim>
+    <nama>tina</nama>
+    <alamat>bantul</alamat>
+    <prodi>metins</prodi>
+  </mahasiswa>
+  <mahasiswa>
+    <nim>852</nim>
+    <nama>cinta</nama>
+    <alamat>gunungkidul</alamat>
+    <prodi>komsi</prodi>
+  </mahasiswa>
+</data>
